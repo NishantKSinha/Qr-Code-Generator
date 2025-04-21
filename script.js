@@ -14,3 +14,5 @@ function generateQR(){
         },1000);
     }
 }
+
+// test message PSP
